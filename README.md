@@ -1,4 +1,4 @@
-# Runner
+# My_Runner
 
 Projet Graphics Epitech
 
